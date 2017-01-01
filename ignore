@@ -1,3 +1,12 @@
+cd src/btforme-154206
+git clone https://github.com/cates0819/helloworld.git
+cd helloworld
+npm install
+npm start
+gcloud app deploy
+
+
+
 https://www.codeproject.com/Articles/325135/Getting-Started-with-IndexedDB
 
 https://developer.chrome.com/apps/app_storage
